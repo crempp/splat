@@ -1,11 +1,27 @@
 # Splat!
 
-Paint Colors
-* Pink: `F644CDFF`
-* Green: `5AF660FF`
-* Blue: `498DFEFF`
-* Yellow: `EEE95BFF`
-* Purple: `E06EEEFF`
+## Characters
+Frederick
+	Green: `5AF660FF`
+
+Irma
+	Pink: `F644CDFF`
+
+Jon
+	Blue: `498DFEFF`
+
+Marketa
+	Red: `C71F2900`
+
+Rosalie
+	Yellow: `EEE95BFF`
+	
+Steve
+	Purple: `E06EEEFF`
+	
+## Mood
+https://www.canva.com/design/DADXN9Svq2k/pPovtZfttZKc1P5kQYkfyw/edit?category=tACZCstt_G4&utm_source=onboarding
+ 
 
 ### Notes
 * Convert WAV to 16 bit
@@ -31,3 +47,7 @@ for f in *.wav; do ffmpeg -i $f -sample_fmt s16 ../$f; done
 	
 	
 https://commons.wikimedia.org/wiki/File:Sherwood_Forest_(9541).jpg
+
+
+
+
