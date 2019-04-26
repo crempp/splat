@@ -48,6 +48,3 @@ for f in *.wav; do ffmpeg -i $f -sample_fmt s16 ../$f; done
 	
 https://commons.wikimedia.org/wiki/File:Sherwood_Forest_(9541).jpg
 
-
-
-
